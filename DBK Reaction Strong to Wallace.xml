@@ -4,20 +4,77 @@
 
                 <fileDesc>
                          <titleStmt>
-                                  <title > The Diamondback</title > <title>Reaction Strong to Wallace</title>
-                                  <author>DIANA MCGEE and DON BURROWS</author>
+                                  <title type="main">Reaction Strong to Wallace</title>
+                                  <title type="sub">Digital Edition</title>
+                                  <author>
+                                    <persName xml:id="YANG">
+                                      <forename>Misti</forename>
+                                      <surname>Yang</surname>
+                                    </persName>
+                                    </author>
+                                    <respStmt>
+                                      <resp>Encoded by</resp>
+                                      <name ref="YANG">
+                                        <forename>Misti</forename>
+                                        <surname>Yang</surname>
+                                      </name>
+                                    </respStmt>
+                                    <respStmt>
+                                      <resp>Training provided by</resp>
+                                      <persName xml:id="RV">Raffaele Viglianti</persName>
+                                    </respStmt>
+                                    <respStmt>
+                                      <resp>Training provided by</resp>
+                                      <persName xml:id="JLU">Jessica Lu</persName>
+                                    </respStmt>
+                                    <respStmt>
+                                      <resp>Original TEI template provided by</resp>
+                                      <persName ref="#RV">Raffaele Viglianti</persName>
+                                    </respStmt>
+                                    <respStmt>
+                                      <resp>Student newspapers archived and provided by</resp>
+                                      <orgName xml:id="UA">University Archives
+                                        <placeName>University of Maryland
+                                          <settlement>College Park</settlement>
+                                          <region>Maryland</region>
+                                        </placeName>
+                                      </orgName>
+                                    </respStmt>
                           </titleStmt >
                          <publicationStmt>
-                                    <p></p>
+                                    <publisher></publisher>
+                                    <pubPlace>
+                                      <settlement>College Park</settlement>
+                                      <region>MD</region>
+                                    </pubPlace>
+                                    <date>March 2018</date>
                           </publicationStmt>
                            <sourceDesc>
-                                    <bibl> Reaction Strong to Wallace, The Diamondback (University of Maryland, College Park student newspaper), May 15, 1964, p. 8</bibl>
+                                    <bibl>
+                                      <title>The Diamondback</title>
+                                      <author>
+                                        <persName>DIANA MCGEE</persName>
+                                      </author>
+                                      <author>
+                                        <persName>DON BURROWS</persName>
+                                      </author>
+                                      <publisher>University of Maryland, College Park</publisher>
+                                      <pubPlace>
+                                      <settlement>College Park</settlement>
+                                      <region>MD</region>
+                                    </pubPlace>
+                                      <date when="1964-05-15">May 15, 1964</date>
+                                      <biblScope unit="volume">55</biblScope>
+                                      <biblScope unit="number">101</biblScope>
+                                      <biblScope unit="page">8</biblScope>
+                                    </bibl>
                           </sourceDesc>
                 </fileDesc>
                   </teiHeader>
   <text>
       <body>
 
+<head>Both Pro and Con</head>
 <head>Reaction Strong to Wallace</head>
 <p>By DIANA MCGEE &amp; DON BURROWS</p>
 <p>In response to the question ”What did you th­ink of <persName>Governor Wallace’s</persName> speech?” the students’ answers were
